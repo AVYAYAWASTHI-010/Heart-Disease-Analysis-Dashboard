@@ -58,9 +58,8 @@ Heart disease is one of the leading causes of death globally. Understanding the 
 
 ## 📸 Screenshots / Demos
 ### Dashboard Preview
-![Weather Dashboard Screenshot]https://github.com/AVYAYAWASTHI-010/Heart-Disease-Analysis-Dashboard/blob/main/Heart%20Disease%20Dashboard.jpg
+![Heart Disease Dashboard Screenshot](https://github.com/AVYAYAWASTHI-010/Heart-Disease-Analysis-Dashboard/blob/main/Heart%20Disease%20Dashboard.jpg)
 
----
 
 ## 🚀 How to Use
 1. Download or clone this repository  
